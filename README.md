@@ -7,7 +7,8 @@ All the resource files are collected from https://hmis.mohfw.gov.in/#!/standardR
 Health Management Information Systems (HMIS) are one of the six building blocks essential for health system strengthening. HMIS is a data collection system specifically designed to support planning, management, and decision making in health facilities and organizations.
 
 MEASURE Evaluation worked in Ethiopia to implement a HMIS in the Southern Nations, Nationalities, and Peoples' Region (SNNPR) and Oromia. The following training materials were used to support implementation of the HMIS including data quality assurance and information use procedures, the electronic HMIS system for managing data processing, reporting, analysis and use; and the  and the community health information system (CHIS), which organizes information on individuals and families information related to vaccines, family planning, maternal and child health, HIV treatment and support, and other services—and makes it available all in one place, such as a family folder.
-
+<h2>CHECK BELOW REPOSITORY FOR DATASET ZIP FILES</h2>
+https://github.com/saiguptha2003/MMR_Time_series_analysis_accross_districts_accross_Andhra_Pradesh
 <h3>what is Maternal Mortality Rate(MMR)?</h3>
 Maternal Mortality Rate (MMR) is defined as the number of maternal deaths per 100,000 live births due to pregnancy or termination of pregnancy, regardless of the site or duration of pregnancy. The maternal mortality rate is used to represent the risk associated with pregnancy among women.
 Limitations:
