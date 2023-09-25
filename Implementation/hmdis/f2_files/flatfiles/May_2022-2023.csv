@@ -1,0 +1,541 @@
+module,items,urban,rural
+M1 [Ante Natal Care (ANC)],Total number of pregnant women registered for ANC,146681,146681
+M1 [Ante Natal Care (ANC)],"Out of the total ANC registered, number registered within 1st trimester (within 12 weeks)",129972,129972
+M1 [Ante Natal Care (ANC)],Number of PW given TT1/ Td1,141901,134855
+M1 [Ante Natal Care (ANC)],Number of PW given TT2 / Td2,133561,128119
+M1 [Ante Natal Care (ANC)],Number of PW given TT Booster/ Td Booster,13594,12659
+M1 [Ante Natal Care (ANC)],Number of PW provided full Course 180 Iron Folic Acid (IFA) tablets,146119,142111
+M1 [Ante Natal Care (ANC)],Number of PW provided full Course 360 Calcium tablets,129683,125664
+M1 [Ante Natal Care (ANC)],Number of PW given one Albendazole tablet after 1st trimester,119162,116501
+M1 [Ante Natal Care (ANC)],Number of PW received 4 or more ANC check ups,137653,134429
+M1 [Ante Natal Care (ANC)],Number of PW given ANC Corticosteroids in Pre Term Labour,3133,2549
+M1 [Ante Natal Care (ANC)],New cases of PW with hypertension detected,4649,3319
+M1 [Ante Natal Care (ANC)],"Out of the new cases of PW with hypertension detected, cases managed at institution",2394,1756
+M1 [Ante Natal Care (ANC)],Number of Eclampsia cases managed during delivery,408,275
+M1 [Ante Natal Care (ANC)],Number of PW tested for Haemoglobin (Hb ) 4 or more than 4 times for respective ANCs,137218,134523
+M1 [Ante Natal Care (ANC)],Number of PW having Hb level<11 (out of total tested cases)(7.1 to 10.9),85800,84264
+M1 [Ante Natal Care (ANC)],Number of PW having Hb level<7 (out of total tested cases),2166,1776
+M1 [Ante Natal Care (ANC)],Number of PW having severe anaemia (Hb < 7) treated,1206,992
+M1 [Ante Natal Care (ANC)],Number of PW tested for Blood Sugar using OGTT(Oral Glucose Tolerance Test),30624,24111
+M1 [Ante Natal Care (ANC)],Number of PW tested positive for GDM,729,312
+M1 [Ante Natal Care (ANC)],Number of PW given insulin out of total tested positive for GDM,178,33
+M1 [Ante Natal Care (ANC)],Number of PW tested using POC test for Syphilis,2109,2109
+M1 [Ante Natal Care (ANC)],"Out of above,number of PW found sero positive for Syphilis",16,16
+M1 [Ante Natal Care (ANC)],Number of pregnant women tested for Syphilis,65680,56127
+M1 [Ante Natal Care (ANC)],Number of pregnant women tested found sero positive for Syphilis,55,45
+M1 [Ante Natal Care (ANC)],Number of syphilis positive pregnanat women treated for Syphilis,14,13
+M1 [Ante Natal Care (ANC)],Number of babies daignosed with Congenital Syphilis,0,0
+M1 [Ante Natal Care (ANC)],Number of babies treated for Congenital Syphilis,3,3
+M2 [Deliveries],Number of Home Deliveries attended by Skill Birth Attendant(SBA) (Doctor/Nurse/ANM/ Midwife),1,1
+M2 [Deliveries],Number of Home Deliveries attended by Non SBA (Trained Birth Attendant(TBA) /Relatives/etc.),1,1
+M2 [Deliveries],Number of PW given Tablet Misoprostol during home delivery,9,9
+M2 [Deliveries],Number of newborns received 7 Home Based Newborn Care (HBNC) visits in case of Home delivery,1,1
+M2 [Deliveries],Number of Institutional Deliveries conducted (Including C-Sections),126077,45910
+M2 [Deliveries],Out of total institutional deliveries number of women discharged within 48 hours of delivery,17991,9478
+M2 [Deliveries],Number of newborns received 6 HBNC  visits after Institutional Delivery,77825,77779
+M3 [Number of Caesarean (C-Section) deliveries],Total C -Section deliveries performed,58095,16157
+M3 [Number of Caesarean (C-Section) deliveries],"C-sections, performed at night (8 PM- 8 AM)",7869,3277
+M4 [Pregnancy outcome & details of new-born],Live Birth - Male,64659,23358
+M4 [Pregnancy outcome & details of new-born],Live Birth - Female,61252,22255
+M4 [Pregnancy outcome & details of new-born],Number of Pre term newborns (< 37 weeks of pregnancy),3032,1677
+M4 [Pregnancy outcome & details of new-born],Still Birth,671,572
+M4 [Pregnancy outcome & details of new-born],Abortion (spontaneous),1523,1246
+M4 [Pregnancy outcome & details of new-born],MTP up to 12 weeks of pregnancy,990,265
+M4 [Pregnancy outcome & details of new-born],MTP more than 12 weeks of pregnancy,407,198
+M4 [Pregnancy outcome & details of new-born],Post Abortion/ MTP Complications Identified,32,23
+M4 [Pregnancy outcome & details of new-born],Post Abortion/ MTP Complications Treated,16,15
+M4 [Pregnancy outcome & details of new-born],Number of women provided with post abortion/ MTP contraception,41,7
+M4 [Pregnancy outcome & details of new-born],Number of newborns weighed at birth,123520,45403
+M4 [Pregnancy outcome & details of new-born],Number of newborns having weight less than 2.5 kg,6472,4426
+M4 [Pregnancy outcome & details of new-born],Number of Newborns breast fed within 1 hour of birth ,122469,45047
+M5 [Complicated Pregnancies],"Number of cases of pregnant women with Obstetric Complications attended (Antepartum haemorrhage (APH), Post-Partum Hemorrhage (PPH), Sepsis, Eclampsia and others)",8326,7999
+M5 [Complicated Pregnancies],Number of Complicated pregnancies treated with Blood Transfusion,3018,2746
+M6 [Post Natal Care (PNC)],Women receiving 1st post partum checkups within 48 hours of home delivery,3,3
+M6 [Post Natal Care (PNC)],Women receiving 1st post partum checkup between 48 hours and 14 days,93113,87487
+M6 [Post Natal Care (PNC)],Number of mothers provided full course of 180 IFA tablets after delivery,98880,84422
+M6 [Post Natal Care (PNC)],Number of mothers provided full course of 360 Calcium tablets after delivery,84927,70649
+M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases],New RTI/STI cases identified - Male,11815,11634
+M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases],New RTI/STI cases identified - Female,21563,20916
+M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases],RTI/STI for which treatment initiated - Male,10606,10467
+M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases],RTI/STI for which treatment initiated -Female,19653,19101
+M8 [Family Planning],Number of Non Scalpel Vasectomy (NSV) / Conventional Vasectomy conducted,199,167
+M8 [Family Planning],Number of Laparoscopic sterilizations (excluding post abortion) conducted,1954,627
+M8 [Family Planning],Number of Interval Mini-lap (other than post-partum and post abortion) sterilizations conducted,8001,5908
+M8 [Family Planning],Number of Postpartum sterilizations (within 7 days of delivery by minilap or concurrent with caesarean section) conducted,10126,6807
+M8 [Family Planning],Number of Post Abortion sterilizations (within 7 days of spontaneous or surgical abortion) conducted,462,313
+M8 [Family Planning],Number of Interval IUCD Insertions (excluding PPIUCD and PAIUCD),7269,6647
+M8 [Family Planning],Number of Postpartum (within 48 hours of delivery) IUCD insertions,1784,1667
+M8 [Family Planning],Number of Post Abortion (within 12 days of spontaneous or surgical abortion) IUCD insertions,91,65
+M8 [Family Planning],Number of IUCD Removals,1285,979
+M8 [Family Planning],Number of complications following IUCD Insertion,51,46
+M8 [Family Planning],Injectable Contraceptive-Antara Program- First Dose,81,72
+M8 [Family Planning],Injectable Contraceptive-Antara Program- Second Dose,18,16
+M8 [Family Planning],Injectable Contraceptive-Antara Program- Third Dose,4,4
+M8 [Family Planning],Injectable Contraceptive-Antara Program- Fourth or more than fourth,2,2
+M8 [Family Planning],Number of Combined Oral Pill cycles distributed,554445,553932
+M8 [Family Planning],Number of Condom pieces distributed,4860775,4858665
+M8 [Family Planning],Number of Centchroman (weekly) pill strips distributed,30133,30119
+M8 [Family Planning],Number of Emergency Contraceptive Pills (ECP) given,2850,2825
+M8 [Family Planning],Number of Pregnancy Test Kits (PTK) used,141656,133819
+M8 [Family Planning],Complications following male sterilization,8,8
+M8 [Family Planning],Complications following female sterilization,8,8
+M8 [Family Planning],Failures following male sterilization,0,0
+M8 [Family Planning],Failures following female sterilization,0,0
+M8 [Family Planning],Deaths following male sterilization,0,0
+M8 [Family Planning],Deaths following female sterilization,0,0
+M9 [CHILD IMMUNISATION],Child immunisation - Vitamin K (Birth Dose),117851,47019
+M9 [CHILD IMMUNISATION],Child immunisation - BCG,134847,76798
+M9 [CHILD IMMUNISATION],Child immunisation - DPT1,276,130
+M9 [CHILD IMMUNISATION],Child immunisation - DPT2,194,114
+M9 [CHILD IMMUNISATION],Child immunisation - DPT3,177,113
+M9 [CHILD IMMUNISATION],Child immunisation - Pentavalent 1,127249,125597
+M9 [CHILD IMMUNISATION],Child immunisation - Pentavalent 2,122698,121347
+M9 [CHILD IMMUNISATION],Child immunisation - Pentavalent 3,134436,133092
+M9 [CHILD IMMUNISATION],Child immunisation - OPV 0 (Birth Dose),125713,59988
+M9 [CHILD IMMUNISATION],Child immunisation - OPV1,127248,125429
+M9 [CHILD IMMUNISATION],Child immunisation - OPV2,122452,121057
+M9 [CHILD IMMUNISATION],Child immunisation - OPV3,134510,133264
+M9 [CHILD IMMUNISATION],Child immunisation - Hepatitis-B0 (Birth Dose),118756,49689
+M9 [CHILD IMMUNISATION],Child immunisation - Hepatitis-B1,1424,1290
+M9 [CHILD IMMUNISATION],Child immunisation - Hepatitis-B2,1291,1199
+M9 [CHILD IMMUNISATION],Child immunisation - Hepatitis-B3,1383,1314
+M9 [CHILD IMMUNISATION],Child immunisation - Inactivated Injectable Polio Vaccine 1 (IPV 1),126470,124944
+M9 [CHILD IMMUNISATION],Child immunisation - Inactivated Injectable Polio Vaccine 2 (IPV 2),133507,132449
+M9 [CHILD IMMUNISATION],Child immunisation - Rotavirus 1,127249,125706
+M9 [CHILD IMMUNISATION],Child immunisation - Rotavirus 2,122661,121374
+M9 [CHILD IMMUNISATION],Child immunisation - Rotavirus 3,134336,133168
+M9 [CHILD IMMUNISATION],Child Immunisation- PCV 1,106861,106076
+M9 [CHILD IMMUNISATION],Child Immunisation- PCV 2,111316,110502
+M9 [CHILD IMMUNISATION],Child Immunisation- PCV Booster,35422,35023
+M9 [CHILD IMMUNISATION],Child immunisation (9-11months) - Measles & Rubella (MR)/ Measles containing vaccine(MCV) - 1st Dose,132378,131272
+M9 [CHILD IMMUNISATION],Child immunisation (9-11months) - Measles 1st dose,984,948
+M9 [CHILD IMMUNISATION],Child immunisation (9-11months) - JE 1st dose,44548,44362
+M9 [CHILD IMMUNISATION],Children aged between 9 and 11 months fully immunized- Male,69635,68927
+M9 [CHILD IMMUNISATION],Children aged between 9 and 11 months fully immunized - Female,63444,62835
+M9 [CHILD IMMUNISATION],Child immunisation(9 - 11 months) - Inactivated Injectable Polio Vaccine 3 (IPV 3),7,7
+M9 [CHILD IMMUNISATION],Child immunisation(after 12 months) - Measles & Rubella (MR)/Measles containing vaccine(MCV)- 1st Dose,4314,4071
+M9 [CHILD IMMUNISATION],Child immunisation (after 12 months) - Measles-1st dose,291,279
+M9 [CHILD IMMUNISATION],Child immunisation (after 12 months) - JE 1st dose,1430,1413
+M9 [CHILD IMMUNISATION],Child immunisation - Measles & Rubella (MR)- 2nd Dose (16-24 months),127219,126009
+M9 [CHILD IMMUNISATION],Child immunisation - Measles 2nd dose (More than 16 months),891,838
+M9 [CHILD IMMUNISATION],Child immunisation - DPT 1st Booster,127645,126964
+M9 [CHILD IMMUNISATION],Child immunisation - OPV Booster,127279,126698
+M9 [CHILD IMMUNISATION],"Child immunisation - Measles, Mumps, Rubella (MMR) Vaccine",956,824
+M9 [CHILD IMMUNISATION],Number of children more than 16 months of age who received Japanese Encephalitis (JE) vaccine,38306,38162
+M9 [CHILD IMMUNISATION],Child immunisation - Typhoid,495,105
+M9 [CHILD IMMUNISATION],Children more than 5 years received DPT5 (2nd Booster),126180,125767
+M9 [CHILD IMMUNISATION],Children more than 10 years received TT10/ Td10,121132,120879
+M9 [CHILD IMMUNISATION],Children more than 16 years received TT16/ Td16,110516,110374
+M9 [CHILD IMMUNISATION],Number of cases of AEFI - Abscess,0,0
+M9 [CHILD IMMUNISATION],Number of cases of AEFI - Death,0,0
+M9 [CHILD IMMUNISATION],Number of cases of AEFI - Others,0,0
+M9 [CHILD IMMUNISATION],Immunisation sessions planned,115142,114906
+M9 [CHILD IMMUNISATION],Immunisation sessions held,114801,114583
+M9 [CHILD IMMUNISATION],Number of Immunisation sessions where ASHAs were present,104353,104320
+M9 [CHILD IMMUNISATION],Child immunisation - Vitamin A Dose - 1,128953,128622
+M9 [CHILD IMMUNISATION],Child immunisation - Vitamin A Dose - 5,98264,97994
+M9 [CHILD IMMUNISATION],Child immunisation - Vitamin A Dose - 9,112331,112128
+M9 [CHILD IMMUNISATION],Number of children (6-59 months) provided 8-10 doses (1ml) of IFA syrup (Bi weekly),5235192,5235031
+M9 [CHILD IMMUNISATION],Number of children (12-59 months) provided Albendazole,175092,174453
+M9 [CHILD IMMUNISATION],Number of severely underweight children provided Health Checkup (0-5 years),14678,14574
+M10 [Number of cases of Childhood Diseases (0-5 years)],Childhood Diseases - Pneumonia,1884,843
+M10 [Number of cases of Childhood Diseases (0-5 years)],Childhood Diseases - Asthma,1161,310
+M10 [Number of cases of Childhood Diseases (0-5 years)],Childhood Diseases - Sepsis,252,76
+M10 [Number of cases of Childhood Diseases (0-5 years)],Childhood Diseases - Diphtheria,0,0
+M10 [Number of cases of Childhood Diseases (0-5 years)],Childhood Diseases - Pertussis,0,0
+M10 [Number of cases of Childhood Diseases (0-5 years)],Childhood Diseases - Tetanus Neonatorum,0,0
+M10 [Number of cases of Childhood Diseases (0-5 years)],Childhood Diseases - Tuberculosis (TB),49,49
+M10 [Number of cases of Childhood Diseases (0-5 years)],Childhood Diseases - Acute Flaccid Paralysis(AFP),0,0
+M10 [Number of cases of Childhood Diseases (0-5 years)],Childhood Diseases - Measles,0,0
+M10 [Number of cases of Childhood Diseases (0-5 years)],Childhood Diseases - Malaria,255,72
+M10 [Number of cases of Childhood Diseases (0-5 years)],Childhood Diseases - Diarrhoea,4383,2543
+M10 [Number of cases of Childhood Diseases (0-5 years)],Childhood Diseases - Diarrhoea treated in Inpatients,2157,1268
+M10 [Number of cases of Childhood Diseases (0-5 years)],Children admitted with Respiratory Infections,1787,1200
+M10 [Number of cases of Childhood Diseases (0-5 years)],Childhood Diseases - Severe Acute Malnutrition (SAM),506,456
+M11 [NVBDCP],Total Blood Smears Examined for Malaria,811015,797379
+M11 [NVBDCP],Malaria (Microscopy Tests ) - Plasmodium Vivax test positive,921,805
+M11 [NVBDCP],Malaria (Microscopy Tests ) - Plasmodium Falciparum test positive,223,132
+M11 [NVBDCP],RDT conducted for Malaria,218125,209783
+M11 [NVBDCP],Malaria (RDT) - Plasmodium Vivax test positive,322,207
+M11 [NVBDCP],Malaria (RDT) - Plamodium Falciparum test positive,176,102
+M11 [NVBDCP],Kala Azar (RDT) - Tests Conducted,274,240
+M11 [NVBDCP],Kala Azar Positive Cases,0,0
+M11 [NVBDCP],Post-kala-azar dermal leishmaniasis (PKDL) cases,0,0
+M11 [NVBDCP],Dengue - RDT Test Positive,1053,476
+M11 [NVBDCP],Dengue - Enzyme- Linked Immuno Sorbent Assay (ELISA) Test Positive,314,295
+M11 [NVBDCP],Tests Conducted for JE,0,0
+M11 [NVBDCP],Tests Positive for JE,0,0
+M12 [Adolescent Health],Girls registered in AFHC,119410,119104
+M12 [Adolescent Health],Boys registered in AFHC,107284,107183
+M12 [Adolescent Health],"Out of registered, Girls received clinical services",65560,65346
+M12 [Adolescent Health],"Out of registered, Boys received clinical services",60005,59924
+M12 [Adolescent Health],"Out of registered, Girls received counselling",80835,80709
+M12 [Adolescent Health],"Out of registered, Boys received counselling",74899,74815
+"M13 [Directly Observed Treatment, Short-course (DOTS)]",Number of on-going DOTS patients registered,16389,16247
+"M13 [Directly Observed Treatment, Short-course (DOTS)]",Number of DOTS cases completed successfully,6474,6466
+M14 [Patient Services],Outpatient - Diabetes,854497,730880
+M14 [Patient Services],Outpatient - Hypertension,885335,782797
+M14 [Patient Services],Outpatient - Stroke (Paralysis),15698,8321
+M14 [Patient Services],Outpatient - Acute Heart Diseases,25081,11397
+M14 [Patient Services],Outpatient - Mental illness,48338,38064
+M14 [Patient Services],Outpatient - Epilepsy,14358,9850
+M14 [Patient Services],Outpatient - Ophthalmic Related,327149,229807
+M14 [Patient Services],Outpatient - Dental,202838,191567
+M14 [Patient Services],Outpatient - Oncology,12083,3561
+M14 [Patient Services],Allopathic- Outpatient attendance,16759872,14303019
+M14 [Patient Services],Ayush - Outpatient attendance,445905,409691
+M14 [Patient Services],Inpatient (Male) - Children < 18 years,63133,47731
+M14 [Patient Services],Inpatient (Male)- Adults,314214,252593
+M14 [Patient Services],Inpatient (Female) - Children < 18 years,57033,43763
+M14 [Patient Services],Inpatient (Female)- Adults,416893,337506
+M14 [Patient Services],Number of Left Against Medical Advice (LAMA) cases,14061,12960
+M14 [Patient Services],Inpatient - Malaria,1219,319
+M14 [Patient Services],Inpatient - Dengue,2212,484
+M14 [Patient Services],Inpatient - Typhoid,4433,2790
+M14 [Patient Services],"Inpatient - Asthma, Chronic Obstructive Pulmonary Disease (COPD), Respiratory infections",23798,21190
+M14 [Patient Services],Inpatient - Tuberculosis,2088,1569
+M14 [Patient Services],Inpatient - Pyrexia of unknown origin (PUO),17568,15649
+M14 [Patient Services],Inpatient - Diarrhea with dehydration,41239,38272
+M14 [Patient Services],Inpatient - Hepatitis,1258,283
+M14 [Patient Services],Patients registered at Emergency Department,364451,345141
+M14 [Patient Services],"Emergency - Trauma ( accident, injury, poisoning etc)",38013,34183
+M14 [Patient Services],Emergency - Burn,942,698
+M14 [Patient Services],Emergency - Obstetrics complications,2807,2513
+M14 [Patient Services],Emergency - Snake Bite,3562,3422
+M14 [Patient Services],Emergency - Acute Caridiac Emergencies,4706,3309
+M14 [Patient Services],Emergency - CVA ( Cerebovascular Disease),3622,2604
+M14 [Patient Services],Number of deaths occurring at Emergency Department,2298,2038
+M14 [Patient Services],Operation major (General and spinal anaesthesia),51574,26548
+M14 [Patient Services],"Out of Operation major, Gynecology- Hysterectomy surgeries",7822,3442
+M14 [Patient Services],"Major Surgeries excluding Obstetrics, Gynaecology and Opthalmology etc.",9891,9891
+M14 [Patient Services],Operation minor (No or local anaesthesia),210637,194218
+M14 [Patient Services],Number of post operative Surgical Site infection,68,68
+M14 [Patient Services],Number of blood units issued,21352,18463
+M14 [Patient Services],Number of blood transfusions done,21493,17498
+M14 [Patient Services],Inpatient Deaths - Male,5137,4543
+M14 [Patient Services],Inpatient Deaths - Female,3441,3108
+M14 [Patient Services],In-Patient Head Count at midnight,1395669,1348847
+M14 [Patient Services],Number of Admission in NBSU ( New Born Stabilisation Unit),8332,8117
+M14 [Patient Services],Special Newborn Care Unit (SNCU Admissions) - Inborn Male,5021,4077
+M14 [Patient Services],Special Newborn Care Unit (SNCU Admissions) - Inborn Female,4203,3360
+M14 [Patient Services],Outborn – Male,2672,2062
+M14 [Patient Services],Outborn - Female,2015,1518
+M14 [Patient Services],Number of newborns admitted in SNCU - referred by ASHA,534,525
+M14 [Patient Services],Number of deaths occurring at SNCU,808,803
+M14 [Patient Services],Number of children admitted in NRC,881,877
+M14 [Patient Services],Number of children discharged with target weight gain from the NRCs,754,750
+M14 [Patient Services],Number of Rogi Kalyan Samiti (RKS) meetings held,840,839
+M14 [Patient Services],Number of Anganwadi centres/ UPHCs reported to have conducted Village Health & Nutrition Day (VHNDs)/ Urban Health & Nutrition Day (UHNDs)/ Outreach / Special Outreach,105750,105750
+M14 [Patient Services],Stock out rate of essential Drugs,388,388
+M14 [Patient Services],Blood Units Issued on replacement (Any Donors to be considered as replacement donations),5474,5474
+M14 [Patient Services],Total number of blood units issued in month,24464,24464
+M14 [Patient Services],Patient Satisfaction Score of the facility in percentage (from Mera Aspatal),3298,3298
+M15 [Laboratory Testing],Number of Lab Tests done,8396284,7262378
+M15 [Laboratory Testing],Number of Hb tests conducted,1568245,1289853
+M15 [Laboratory Testing],"Out of the total number of Hb tests done, Number having Hb < 7 mg",55096,40185
+M15 [Laboratory Testing],Male HIV - Number Tested (by finger prick test),122459,89340
+M15 [Laboratory Testing],Male HIV - Number Positive,2020,1247
+M15 [Laboratory Testing],Female Non ANC HIV - Number Tested (by finger prick test),113319,91732
+M15 [Laboratory Testing],Female Non ANC HIV - Number Positive,1119,1043
+M15 [Laboratory Testing],Number of pregnant women screened for HIV (by finger prick test),156486,132890
+M15 [Laboratory Testing],"Out of the above, number screened positive",906,884
+M15 [Laboratory Testing],"Out of the above number screened positive, number confirmed with HIV infection at Integrated Counselling and Testing Centre (ICTC)",105,100
+M15 [Laboratory Testing],Number of Male STI/RTI attendees tested for syphilis,17815,15418
+M15 [Laboratory Testing],Number of Male STI/RTI attendeees found sero Positive for syphilis,986,958
+M15 [Laboratory Testing],Number of Female(Non ANC)STI/RTI attendees tested for syphilis,17292,15706
+M15 [Laboratory Testing],Number of Female(Non ANC)STI/RTI attendees found sero Positive for syphilis,273,272
+M15 [Laboratory Testing],Widal tests - Number Tested,100135,72438
+M15 [Laboratory Testing],Widal tests - Number Positive,14604,6844
+M15 [Laboratory Testing],Radiology - X-ray,400811,270175
+M15 [Laboratory Testing],Radiology - Ultrasonography (USG),177485,137078
+M16 [Details of deaths reported with probable causes:],Infant deaths within 24 hours (1 to 23 hours) of birth,278,269
+M16 [Details of deaths reported with probable causes:],Infant Deaths up to 4 weeks due to Sepsis,222,219
+M16 [Details of deaths reported with probable causes:],Infant Deaths up to 4 weeks due to Asphyxia,256,254
+M16 [Details of deaths reported with probable causes:],Infant Deaths up to 4 weeks due to Other causes,506,497
+M16 [Details of deaths reported with probable causes:],Number of Infant Deaths (1 -12 months) due to Pneumonia,44,44
+M16 [Details of deaths reported with probable causes:],Number of Infant Deaths (1 -12 months) due to Diarrhoea,9,9
+M16 [Details of deaths reported with probable causes:],Number of Infant Deaths (1 -12 months) due to Fever related,17,17
+M16 [Details of deaths reported with probable causes:],Number of Infant Deaths (1 -12 months) due to Measles,0,0
+M16 [Details of deaths reported with probable causes:],Number of Infant Deaths (1 -12 months) due to Others,172,170
+M16 [Details of deaths reported with probable causes:],Number of Child Deaths (1 -5 years) due to Pneumonia,30,30
+M16 [Details of deaths reported with probable causes:],Number of Child Deaths (1 -5 years) due to Diarrhoea,2,2
+M16 [Details of deaths reported with probable causes:],Number of Child Deaths (1 -5 years) due to Fever related,11,11
+M16 [Details of deaths reported with probable causes:],Number of Child Deaths (1 -5 years) due to Measles,0,0
+M16 [Details of deaths reported with probable causes:],Number of Child Deaths (1 -5 years) due to Others,108,105
+M16 [Details of deaths reported with probable causes:],Number of Maternal Deaths due to Bleeding,13,12
+M16 [Details of deaths reported with probable causes:],Number of Maternal Deaths due to High fever,4,4
+M16 [Details of deaths reported with probable causes:],Number of Maternal Deaths due to Abortion,0,0
+M16 [Details of deaths reported with probable causes:],Number of Maternal Deaths due to Obstructed/prolonged labour,0,0
+M16 [Details of deaths reported with probable causes:],Number of Maternal Deaths due to Severe hypertension/fits,10,10
+M16 [Details of deaths reported with probable causes:],Number of Maternal Deaths due to Other Causes (including causes not known),38,33
+M16 [Details of deaths reported with probable causes:],Total Facility Based Maternal Death Reviews (FBMDR) done,47,42
+M16 [Details of deaths reported with probable causes:],Number of Adolscent / Adult deaths due to Diarrhoeal diseases,31,29
+M16 [Details of deaths reported with probable causes:],Number of Adolscent / Adult deaths due to Tuberculosis,230,221
+M16 [Details of deaths reported with probable causes:],Number of Adolscent / Adult deaths due to Respiratory diseases including infections (other than TB),564,493
+M16 [Details of deaths reported with probable causes:],Number of Adolscent / Adult deaths due to Other Fever Related,83,79
+M16 [Details of deaths reported with probable causes:],Number of Adolscent / Adult deaths due to HIV/AIDS,153,127
+M16 [Details of deaths reported with probable causes:],Number of Adolscent / Adult deaths due to Heart disease/Hypertension related,2611,2438
+M16 [Details of deaths reported with probable causes:],Number of Adolscent / Adult deaths due to Cancer,402,384
+M16 [Details of deaths reported with probable causes:],Number of Adolscent / Adult deaths due to Neurological disease including strokes,890,841
+M16 [Details of deaths reported with probable causes:],Number of Adolscent / Adult deaths due to Accidents/Burn cases,624,599
+M16 [Details of deaths reported with probable causes:],Number of Adolscent / Adult deaths due to Suicide,455,443
+M16 [Details of deaths reported with probable causes:],Number of Adolscent / Adult deaths due to Animal bites and stings,46,46
+M16 [Details of deaths reported with probable causes:],Number of Adolscent / Adult deaths due to Known Acute Disease,1302,1241
+M16 [Details of deaths reported with probable causes:],Number of Adolscent / Adult deaths due to Known Chronic Disease,2504,2416
+M16 [Details of deaths reported with probable causes:],Number of Adolscent / Adult deaths due to Causes not known,27579,27231
+M16 [Details of deaths reported with probable causes:],Number of Deaths due to Malaria- Plasmodium Vivax,2,2
+M16 [Details of deaths reported with probable causes:],Number of Deaths due to Malaria- Plasmodium Falciparum,0,0
+M16 [Details of deaths reported with probable causes:],Number of Deaths due to Kala Azar,0,0
+M16 [Details of deaths reported with probable causes:],Number of Deaths due to Dengue,0,0
+M16 [Details of deaths reported with probable causes:],Number of Deaths due to Acute Encephelitis Syndrome (AES),0,0
+M16 [Details of deaths reported with probable causes:],Number of Deaths due to Japanese Encephalitis (JE),0,0
+M17 [Vaccines],Vaccine - DPT,-446430,nan
+M17 [Vaccines],Vaccine - DPT,323160,nan
+M17 [Vaccines],Vaccine - DPT,69460,nan
+M17 [Vaccines],Vaccine - DPT,180140,nan
+M17 [Vaccines],Vaccine - DPT,-395830,nan
+M17 [Vaccines],Vaccine - Pentavalent,-219080,nan
+M17 [Vaccines],Vaccine - Pentavalent,348670,nan
+M17 [Vaccines],Vaccine - Pentavalent,57260,nan
+M17 [Vaccines],Vaccine - Pentavalent,285250,nan
+M17 [Vaccines],Vaccine - Pentavalent,-212920,nan
+M17 [Vaccines],Vaccine - OPV,23980,nan
+M17 [Vaccines],Vaccine - OPV,521100,nan
+M17 [Vaccines],Vaccine - OPV,53560,nan
+M17 [Vaccines],Vaccine - OPV,497600,nan
+M17 [Vaccines],Vaccine - OPV,-6080,nan
+M17 [Vaccines],Vaccine - TT,218780,nan
+M17 [Vaccines],Vaccine - TT,83520,nan
+M17 [Vaccines],Vaccine - TT,0,nan
+M17 [Vaccines],Vaccine - TT,116310,nan
+M17 [Vaccines],Vaccine - TT,185990,nan
+M17 [Vaccines],Vaccine - DT,-863640,nan
+M17 [Vaccines],Vaccine - DT,127950,nan
+M17 [Vaccines],Vaccine - DT,38890,nan
+M17 [Vaccines],Vaccine - DT,103240,nan
+M17 [Vaccines],Vaccine - DT,-877820,nan
+M17 [Vaccines],Vaccine - BCG,-152600,nan
+M17 [Vaccines],Vaccine - BCG,358340,nan
+M17 [Vaccines],Vaccine - BCG,75380,nan
+M17 [Vaccines],Vaccine - BCG,218090,nan
+M17 [Vaccines],Vaccine - BCG,-87730,nan
+M17 [Vaccines],Vaccine - Measles,0,nan
+M17 [Vaccines],Vaccine - Measles,0,nan
+M17 [Vaccines],Vaccine - Measles,0,nan
+M17 [Vaccines],Vaccine - Measles,0,nan
+M17 [Vaccines],Vaccine - Measles,0,nan
+M17 [Vaccines],Vaccine - JE,-684025,nan
+M17 [Vaccines],Vaccine - JE,107935,nan
+M17 [Vaccines],Vaccine - JE,59080,nan
+M17 [Vaccines],Vaccine - JE,86960,nan
+M17 [Vaccines],Vaccine - JE,-722130,nan
+M17 [Vaccines],Vaccine - Hepatitis B,-340320,nan
+M17 [Vaccines],Vaccine - Hepatitis B,89800,nan
+M17 [Vaccines],Vaccine - Hepatitis B,23280,nan
+M17 [Vaccines],Vaccine - Hepatitis B,66470,nan
+M17 [Vaccines],Vaccine - Hepatitis B,-340270,nan
+M17 [Vaccines],Vaccine - Typhoid,0,nan
+M17 [Vaccines],Vaccine - Typhoid,0,nan
+M17 [Vaccines],Vaccine - Typhoid,0,nan
+M17 [Vaccines],Vaccine - Typhoid,0,nan
+M17 [Vaccines],Vaccine - Typhoid,0,nan
+M17 [Vaccines],Vaccine - Vitamin K,169800,nan
+M17 [Vaccines],Vaccine - Vitamin K,0,nan
+M17 [Vaccines],Vaccine - Vitamin K,0,nan
+M17 [Vaccines],Vaccine - Vitamin K,88630,nan
+M17 [Vaccines],Vaccine - Vitamin K,81170,nan
+M17 [Vaccines],Rotavirus,-1236885,nan
+M17 [Vaccines],Rotavirus,403895,nan
+M17 [Vaccines],Rotavirus,83350,nan
+M17 [Vaccines],Rotavirus,302045,nan
+M17 [Vaccines],Rotavirus,-1218385,nan
+M17 [Vaccines],Inactivated Polio Vaccine,-321320,nan
+M17 [Vaccines],Inactivated Polio Vaccine,424650,nan
+M17 [Vaccines],Inactivated Polio Vaccine,70825,nan
+M17 [Vaccines],Inactivated Polio Vaccine,362025,nan
+M17 [Vaccines],Inactivated Polio Vaccine,-329520,nan
+M17 [Vaccines],Measles Rubella(MR),-1303950,nan
+M17 [Vaccines],Measles Rubella(MR),256445,nan
+M17 [Vaccines],Measles Rubella(MR),58880,nan
+M17 [Vaccines],Measles Rubella(MR),229740,nan
+M17 [Vaccines],Measles Rubella(MR),-1336125,nan
+M18 [Family Planning],IUD 380 A,14628,nan
+M18 [Family Planning],IUD 380 A,2160,nan
+M18 [Family Planning],IUD 380 A,200,nan
+M18 [Family Planning],IUD 380 A,2780,nan
+M18 [Family Planning],IUD 380 A,13808,nan
+M18 [Family Planning],IUD 375 A,12068,nan
+M18 [Family Planning],IUD 375 A,17830,nan
+M18 [Family Planning],IUD 375 A,0,nan
+M18 [Family Planning],IUD 375 A,12118,nan
+M18 [Family Planning],IUD 375 A,17780,nan
+M18 [Family Planning],Condoms,1040804,nan
+M18 [Family Planning],Condoms,527114,nan
+M18 [Family Planning],Condoms,100880,nan
+M18 [Family Planning],Condoms,274300,nan
+M18 [Family Planning],Condoms,1192738,nan
+M18 [Family Planning],Oral Contraceptive,114400,nan
+M18 [Family Planning],Oral Contraceptive,11100,nan
+M18 [Family Planning],Oral Contraceptive,200,nan
+M18 [Family Planning],Oral Contraceptive,61700,nan
+M18 [Family Planning],Oral Contraceptive,63600,nan
+M18 [Family Planning],Emergency Contraceptive Pills,2117,nan
+M18 [Family Planning],Emergency Contraceptive Pills,2655,nan
+M18 [Family Planning],Emergency Contraceptive Pills,2300,nan
+M18 [Family Planning],Emergency Contraceptive Pills,15355,nan
+M18 [Family Planning],Emergency Contraceptive Pills,-12883,nan
+M18 [Family Planning],Centchroman weekly pills,326254,nan
+M18 [Family Planning],Centchroman weekly pills,7200,nan
+M18 [Family Planning],Centchroman weekly pills,0,nan
+M18 [Family Planning],Centchroman weekly pills,109224,nan
+M18 [Family Planning],Centchroman weekly pills,224230,nan
+M18 [Family Planning],Injectable Contraceptive MPA (Vials),174,nan
+M18 [Family Planning],Injectable Contraceptive MPA (Vials),88,nan
+M18 [Family Planning],Injectable Contraceptive MPA (Vials),0,nan
+M18 [Family Planning],Injectable Contraceptive MPA (Vials),1,nan
+M18 [Family Planning],Injectable Contraceptive MPA (Vials),261,nan
+M18 [Family Planning],Tubal rings,16600,nan
+M18 [Family Planning],Tubal rings,4200,nan
+M18 [Family Planning],Tubal rings,0,nan
+M18 [Family Planning],Tubal rings,0,nan
+M18 [Family Planning],Tubal rings,20800,nan
+M18 [Family Planning],Pregnanct testing Kits (Nischay Kits),40460,nan
+M18 [Family Planning],Pregnanct testing Kits (Nischay Kits),13490,nan
+M18 [Family Planning],Pregnanct testing Kits (Nischay Kits),850,nan
+M18 [Family Planning],Pregnanct testing Kits (Nischay Kits),19850,nan
+M18 [Family Planning],Pregnanct testing Kits (Nischay Kits),33250,nan
+M19 [Other Items],Gloves,0,nan
+M19 [Other Items],Gloves,0,nan
+M19 [Other Items],Gloves,0,nan
+M19 [Other Items],Gloves,0,nan
+M19 [Other Items],Gloves,0,nan
+M19 [Other Items],MVA Syringes,0,nan
+M19 [Other Items],MVA Syringes,0,nan
+M19 [Other Items],MVA Syringes,0,nan
+M19 [Other Items],MVA Syringes,0,nan
+M19 [Other Items],MVA Syringes,0,nan
+M19 [Other Items],Tab. Fluconazole,0,nan
+M19 [Other Items],Tab. Fluconazole,0,nan
+M19 [Other Items],Tab. Fluconazole,0,nan
+M19 [Other Items],Tab. Fluconazole,0,nan
+M19 [Other Items],Tab. Fluconazole,0,nan
+M19 [Other Items],Blood Transfusion sets,0,nan
+M19 [Other Items],Blood Transfusion sets,0,nan
+M19 [Other Items],Blood Transfusion sets,0,nan
+M19 [Other Items],Blood Transfusion sets,0,nan
+M19 [Other Items],Blood Transfusion sets,0,nan
+M19 [Other Items],Gluteraldehyde 2%,0,nan
+M19 [Other Items],Gluteraldehyde 2%,0,nan
+M19 [Other Items],Gluteraldehyde 2%,0,nan
+M19 [Other Items],Gluteraldehyde 2%,0,nan
+M19 [Other Items],Gluteraldehyde 2%,0,nan
+M19 [Other Items],IFA tablets ( Adult),26317850,nan
+M19 [Other Items],IFA tablets ( Adult),300000,nan
+M19 [Other Items],IFA tablets ( Adult),0,nan
+M19 [Other Items],IFA tablets ( Adult),10977450,nan
+M19 [Other Items],IFA tablets ( Adult),15640400,nan
+M19 [Other Items],IFA - Blue (Adolescent 10-19 years),6418912,nan
+M19 [Other Items],IFA - Blue (Adolescent 10-19 years),5182512,nan
+M19 [Other Items],IFA - Blue (Adolescent 10-19 years),0,nan
+M19 [Other Items],IFA - Blue (Adolescent 10-19 years),3255884,nan
+M19 [Other Items],IFA - Blue (Adolescent 10-19 years),8345540,nan
+M19 [Other Items],IFA- Pink (Junior 6-10 years),76177572,nan
+M19 [Other Items],IFA- Pink (Junior 6-10 years),36543743,nan
+M19 [Other Items],IFA- Pink (Junior 6-10 years),0,nan
+M19 [Other Items],IFA- Pink (Junior 6-10 years),8801098,nan
+M19 [Other Items],IFA- Pink (Junior 6-10 years),103920217,nan
+M19 [Other Items],IFA Syrup (Paediatric),1137698,nan
+M19 [Other Items],IFA Syrup (Paediatric),834261,nan
+M19 [Other Items],IFA Syrup (Paediatric),0,nan
+M19 [Other Items],IFA Syrup (Paediatric),225690,nan
+M19 [Other Items],IFA Syrup (Paediatric),1746269,nan
+M19 [Other Items],Paediatrics Antibiotics ( Amoxycillin and Injectable Gentamicin),0,nan
+M19 [Other Items],Paediatrics Antibiotics ( Amoxycillin and Injectable Gentamicin),0,nan
+M19 [Other Items],Paediatrics Antibiotics ( Amoxycillin and Injectable Gentamicin),0,nan
+M19 [Other Items],Paediatrics Antibiotics ( Amoxycillin and Injectable Gentamicin),0,nan
+M19 [Other Items],Paediatrics Antibiotics ( Amoxycillin and Injectable Gentamicin),0,nan
+M19 [Other Items],Vit A syrup,36259,nan
+M19 [Other Items],Vit A syrup,657,nan
+M19 [Other Items],Vit A syrup,0,nan
+M19 [Other Items],Vit A syrup,4700,nan
+M19 [Other Items],Vit A syrup,32216,nan
+M19 [Other Items],ORS (New WHO),3312776,nan
+M19 [Other Items],ORS (New WHO),1230660,nan
+M19 [Other Items],ORS (New WHO),0,nan
+M19 [Other Items],ORS (New WHO),1078010,nan
+M19 [Other Items],ORS (New WHO),3465426,nan
+M19 [Other Items],RTI /STI colour coded syndromic kits ( I to VII),0,nan
+M19 [Other Items],RTI /STI colour coded syndromic kits ( I to VII),0,nan
+M19 [Other Items],RTI /STI colour coded syndromic kits ( I to VII),0,nan
+M19 [Other Items],RTI /STI colour coded syndromic kits ( I to VII),0,nan
+M19 [Other Items],RTI /STI colour coded syndromic kits ( I to VII),0,nan
+M19 [Other Items],Zinc 20 mg tablet,147000,nan
+M19 [Other Items],Zinc 20 mg tablet,158350,nan
+M19 [Other Items],Zinc 20 mg tablet,0,nan
+M19 [Other Items],Zinc 20 mg tablet,51350,nan
+M19 [Other Items],Zinc 20 mg tablet,254000,nan
+M19 [Other Items],Albendazole 400 mg tablet,898597,nan
+M19 [Other Items],Albendazole 400 mg tablet,4000,nan
+M19 [Other Items],Albendazole 400 mg tablet,0,nan
+M19 [Other Items],Albendazole 400 mg tablet,19426,nan
+M19 [Other Items],Albendazole 400 mg tablet,883171,nan
+M19 [Other Items],Calcium Tablets,4600,nan
+M19 [Other Items],Calcium Tablets,0,nan
+M19 [Other Items],Calcium Tablets,0,nan
+M19 [Other Items],Calcium Tablets,0,nan
+M19 [Other Items],Calcium Tablets,4600,nan
+M20 [Syringes],Syringes - 0.1 ml (AD),-197550,nan
+M20 [Syringes],Syringes - 0.1 ml (AD),2214400,nan
+M20 [Syringes],Syringes - 0.1 ml (AD),29050,nan
+M20 [Syringes],Syringes - 0.1 ml (AD),491910,nan
+M20 [Syringes],Syringes - 0.1 ml (AD),1495890,nan
+M20 [Syringes],Syringes - 0.5 ml (AD),-1636156,nan
+M20 [Syringes],Syringes - 0.5 ml (AD),6490200,nan
+M20 [Syringes],Syringes - 0.5 ml (AD),424550,nan
+M20 [Syringes],Syringes - 0.5 ml (AD),4320750,nan
+M20 [Syringes],Syringes - 0.5 ml (AD),108744,nan
+M20 [Syringes],Syringes - 5.0 ml (Disposable),200120,nan
+M20 [Syringes],Syringes - 5.0 ml (Disposable),293670,nan
+M20 [Syringes],Syringes - 5.0 ml (Disposable),3000,nan
+M20 [Syringes],Syringes - 5.0 ml (Disposable),54190,nan
+M20 [Syringes],Syringes - 5.0 ml (Disposable),436600,nan
+M21 [Rashtriya Bal Swasthaya Karyakram (RBSK)],Number of newborn screened for defects at birth (as per RBSK),43773,nan
+M21 [Rashtriya Bal Swasthaya Karyakram (RBSK)],Number of children (6 month to 6 years) screened by RBSK mobile health teams at Anganwadi center,3615,nan
+M21 [Rashtriya Bal Swasthaya Karyakram (RBSK)],Number of children (6 years to 18 years) screened by RBSK mobile health teams at Govt and Govt aided schools,4612,nan
+M21 [Rashtriya Bal Swasthaya Karyakram (RBSK)],Number of Male children identified with Disease,17846,nan
+M21 [Rashtriya Bal Swasthaya Karyakram (RBSK)],Number of Female children identified with Disease,15745,nan
+M21 [Rashtriya Bal Swasthaya Karyakram (RBSK)],Number of Male children identified with Deficiency,4433,nan
+M21 [Rashtriya Bal Swasthaya Karyakram (RBSK)],Number of Female children identified with Deficiency,4369,nan
+M21 [Rashtriya Bal Swasthaya Karyakram (RBSK)],Number of Male children identified with Developmental delay,8692,nan
+M21 [Rashtriya Bal Swasthaya Karyakram (RBSK)],Number of Female children identified with Developmental delay,6820,nan
+M21 [Rashtriya Bal Swasthaya Karyakram (RBSK)],Number of Children Managed by Intervention - Medical,47677,nan
+M21 [Rashtriya Bal Swasthaya Karyakram (RBSK)],Number of Children Managed by Intervention - Surgical,693,nan
+M21 [Rashtriya Bal Swasthaya Karyakram (RBSK)],Early intervention at DEIC ( District Early Intervention Centre),13238,nan
+M22 [Adolscent Health],Girls (6th -12th class) provided 4 IFA tablets in schools,4085835,nan
+M22 [Adolscent Health],Boys (6th -12th class) provided 4 IFA tablets in schools,4450381,nan
+M22 [Adolscent Health],Girls (6th -12th class) provided albendazole in schools,196189,nan
+M22 [Adolscent Health],Boys (6th -12th class) provided albendazole in schools,248684,nan
+M22 [Adolscent Health],Number of out of school adolscent girls (10-19 years) provided 4 IFA tablets at Anganwadi Centres,87681,nan
+M22 [Adolscent Health],Number of out of school adolscent girls (10-19 years) provided albendazole at Anganwadi Centres,2913,nan
+M22 [Adolscent Health],Number of adolescent girls provided sanitary napkin packs,2673513,nan
+M22 [Adolscent Health],Number of sanitary napkin packs sold to adolescent girls,0,nan
+M22 [Adolscent Health],Number of sanitary napkin packs distributed free to ASHA,312,nan
+M22 [Adolscent Health],Number of adolescent girls attended monthly meeting,556689,nan
+M23 [Coverage under WIFS JUNIOR (Weekly Iron Folic Acid Supplementation Programme for children 6 – 1],Number of children covered under WIFS JUNIOR (6 - 10 years ) provided 4-5 IFA tablets in schools,6427251,nan
+M23 [Coverage under WIFS JUNIOR (Weekly Iron Folic Acid Supplementation Programme for children 6 – 1],Number of children (6 - 10 years) provided albendazole in schools,318242,nan
+M23 [Coverage under WIFS JUNIOR (Weekly Iron Folic Acid Supplementation Programme for children 6 – 1],Number of out of school children (6-10 years) given 4-5 IFA tablets at Anganwadi Centres,245379,nan
+M23 [Coverage under WIFS JUNIOR (Weekly Iron Folic Acid Supplementation Programme for children 6 – 1],Number of out of school children (6-10 years) provided albendazole at Anganwadi Centres,247852,nan
+M24 [Maternal Death Reviews (MDR) Done],Total Maternal Deaths Reviewed (MDR) by CMO,62,nan
+M24 [Maternal Death Reviews (MDR) Done],Total Maternal Deaths Reviewed (MDR) by DM,52,nan
+M24 [Maternal Death Reviews (MDR) Done],Number of maternal deaths reported through Community based Maternal Death Review (CBMDR),60,nan
+M25 [Janani Shishu Suraksha Karyakram (JSSK)],Number of Pregnant Women provided - Free Medicines under JSSK,47039,nan
+M25 [Janani Shishu Suraksha Karyakram (JSSK)],Number of Pregnant Women provided - Free Diet under JSSK,46724,nan
+M25 [Janani Shishu Suraksha Karyakram (JSSK)],Number of Pregnant Women provided - Free Diagnostics under JSSK,45763,nan
+M25 [Janani Shishu Suraksha Karyakram (JSSK)],Number of Pregnant Women provided - Free Home to facility transport under JSSK,35510,nan
+M25 [Janani Shishu Suraksha Karyakram (JSSK)],Number of Pregnant Women provided - Interfacility transfers when needed under JSSK,9977,nan
+M25 [Janani Shishu Suraksha Karyakram (JSSK)],Number of Pregnant Women provided - Free Drop Back home under JSSK,42279,nan
+M25 [Janani Shishu Suraksha Karyakram (JSSK)],Number of sick infants provided - Free Medicines under JSSK,7408,nan
+M25 [Janani Shishu Suraksha Karyakram (JSSK)],Number of sick infants provided - Free Diagnostics under JSSK,6814,nan
+M25 [Janani Shishu Suraksha Karyakram (JSSK)],Number of sick infants provided - Free Home to facility transport under JSSK,3063,nan
+M25 [Janani Shishu Suraksha Karyakram (JSSK)],Number of sick infants provided - Interfacility transfers when needed under JSSK,2220,nan
+M25 [Janani Shishu Suraksha Karyakram (JSSK)],Number of sick infants provided - Free Drop Back home under JSSK,1574,nan
